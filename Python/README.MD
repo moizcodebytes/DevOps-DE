@@ -1,4 +1,4 @@
-Python Folder is mainly to focus on python programming from Basics to advanced level with mini projects.
+This Folder is mainly to focus on python programming from Basics to advanced level with mini projects.
     
    *Basic Python*
         Variables and Data Types
