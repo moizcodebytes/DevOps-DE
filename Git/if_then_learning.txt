@@ -1,0 +1,4 @@
+If 
+	folder name has a symbol of white arrow and  it does not open
+then
+	Check if locally you have a .git/ sub-folder under that folder.
