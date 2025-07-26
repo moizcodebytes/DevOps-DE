@@ -1,0 +1,13 @@
+git clone <repo path >  ## to clone the cloud repository
+git add * ## to add all files to staging area
+git add <filename> ## to add a particular file
+git commit -m "message" ## to commit the changes from staging area to version database but it will not change the cloud repo
+git push ## to make changes in the cloud repo
+
+
+git log ## to get details of commits 
+git status # to check the status of commits
+
+git difftool HEAD ## gives the difference between from cloud repo to local repo
+
+

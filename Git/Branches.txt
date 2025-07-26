@@ -1,0 +1,11 @@
+main is the default branch
+
+git branch ## to list the branches
+git branch <name> ## to create a new branch
+git checkout <name> ## to change the branch 
+
+git merge ## to merge branches to main
+
+git checkout -b <name> ## to create and change to the same branch
+
+git -d <name> ## to delete the branch
