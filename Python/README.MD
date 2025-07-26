@@ -17,21 +17,18 @@ This Folder is mainly to focus on python programming from Basics to advanced lev
         Reading files
         Writing files
         Closing files
-
     *Object-Oriented Programming (OOP)*
         Classes
         Objects
         Inheritance
         Encapsulation
         Polymorphism
-
     *Regular expressions* 
         Basic syntax
         Meta-characters
         Groups
         Lookarounds
         Greedy vs. non-greedy matching
-
     *Libraries*
         NumPy
         Pandas
@@ -39,7 +36,6 @@ This Folder is mainly to focus on python programming from Basics to advanced lev
         SQLAlchemy
         Requests
         Beautiful 
-
     *Parallel processing*
         Multiprocessing 
         Threading 
