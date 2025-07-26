@@ -1,5 +1,6 @@
 Python Folder is mainly to focus on python programming from Basics to advanced level with mini projects.
-    *Basic Python*
+    
+   *Basic Python*
         Variables and Data Types
         Control Structures
         Operators
