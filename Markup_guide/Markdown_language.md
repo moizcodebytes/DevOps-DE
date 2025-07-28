@@ -50,7 +50,7 @@ c = a + b
 
 [This is google Link] www.google.com
 
-To add link of github file : [Markdown Cheat sheet](./markdowncheatsheet)
+To add link of github file : [Markdown Cheat sheet](./Markdown_Cheat_sheet.pdf)
 ### To add image
 
 ![Google]<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9951844f-4083-4c73-8da9-9190b3003274" />
