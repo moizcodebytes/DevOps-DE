@@ -36,7 +36,7 @@ Note : Variables are case sensitive
 2. Text : str
 3. Boolean : True or False
 4. Sequenced data    
-      List : A **Mutable** ordered collection of data with elements seperated by comma and enclosed in **square []** brackets.  [Lists](List)
+      List : A **Mutable** ordered collection of data with elements seperated by comma and enclosed in **square []** brackets.  [List](List)
    ``` python
     >>> list1 = ["John",25,3.5,["India","Hyderabad"]]
     >>> print(list1)
@@ -47,7 +47,7 @@ Note : Variables are case sensitive
 
    
    ```
-      Tuple : A **Immutable** ordered collection of data with elements seperated by comma and enclosed in **paranthesis ()** . [Tuples](Tuple)
+      Tuple : A **Immutable** ordered collection of data with elements seperated by comma and enclosed in **paranthesis ()** . [Tuple](Tuple)
     ``` python
     >>> tuple1 = ("Cat",("lion","tiger"),("pigeon","parrot"))
     >>> print(tuple1)
