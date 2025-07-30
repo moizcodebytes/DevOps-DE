@@ -65,3 +65,36 @@ Note : Variables are case sensitive
     >>> type(dict1)
     <class 'dict'>
    ```
+
+* ## OPERATORS
+
+|Operator | Operator Name |
+|---------|---------------|
+| + | Addittion|
+| - | Subraction|
+| *| Multiplication|
+| **| Exponential|
+| /| Divisio|
+|% | Modulus|
+| //| Floor Division|
+
+```python
+>>> 12+9
+21
+>>> 12-9
+3
+>>> 12*5
+60
+>>> 5**2
+25
+>>> 5**4 # 5*5*5*5
+625
+>>> 60/5
+12.0
+>>> 60%5 # remainder as output
+0
+>>> 60//5 # Division without decimal output
+12
+>>> 25%4
+1
+```
