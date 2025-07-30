@@ -40,7 +40,7 @@ Python automatically converts the type to higher order data type.
 
 ## User Input 
 
-To take the input from user during execution of program we can input() function . By default it takes the value as string.
+To take the input from user during execution of program we use input() function . By default it takes the value as string.
 
 syntax : var1 = input()
 
