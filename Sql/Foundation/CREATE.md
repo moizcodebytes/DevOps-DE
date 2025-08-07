@@ -1,4 +1,4 @@
-# TABLES
+# CREATE
 
 ``` sql
 CREATE TABLE table_name (
@@ -69,8 +69,18 @@ gender varchar(1) Check ('M','F") ;
 6. **Default** : Assigns a default value to a column if no value is provided .
    
 
+# INSERT
+
+To insert the data into table there are 3 important components
+
+• The name of the table into which to add the data    
+• The names of the columns in the table to be populated    
+• The values with which to populate the columns    
 
 
+```
+INSERT INTO <table name>(col1,col2,col3) Values ('value1',value2,value3)
+```
 
 
 
