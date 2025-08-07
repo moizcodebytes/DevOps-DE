@@ -87,3 +87,20 @@ food VARCHAR(20),
  );
 
 ```
+
+## INSERT
+
+``` SQL
+
+INSERT INTO person (person_id, fname, lname, gender, birth_date,street, city, state, country, postal_code) VALUES (null, 'Susan','Smith', 'F', '1975-11-02','23 Maple St.', 'Arlington', 'VA', 'USA', '20220');
+
+INSERT INTO favorite_food (person_id, food) VALUES (1, 'pizza');
+INSERT INTO favorite_food (person_id, food) VALUES (1, 'cookies');
+INSERT INTO favorite_food (person_id, food) VALUES (1, 'nachos')
+```
+
+If there are only limited values to be inserted
+
+``` SQL
+INSERT INTO person (person_id, fname, lname, gender, birth_date) VALUES (null, 'William','Turner', 'M', '1972-05-27');
+```
