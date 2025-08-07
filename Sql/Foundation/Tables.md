@@ -56,11 +56,16 @@ CREATE TABLE table_name (
 
 ## Constraints   
 
+Are rules to limit the type of data that can go into table. This ensures the accuracy and reliability of data mainitained.
+
 1. **NOT NULL** : Ensures Columns cannot have a NULL value.
 2. **Unique** : To Ensure Column values are unique.
 3. **Primary Key**: To uniquely identify each record in table. Combines not NUll and Unique. Each table can have only one primary key but one primary key can be combination of multiple columns "composite key".
-4. **Foreign Key** : Establishes a relationship between two tables by linking a column in one table to the primary key in another.
-5. **Check** : Ensures that all values in a column satisfy a specific condition. .
+4. **Foreign Key** : Establishes a relationship between two tables by linking a column in one table to the primary key in another. FK constraint is used to prevent actions that would destroy links between two tables. FK is a field that refers to PK of another table. The table with FK is called child table and the table with PK is called parent or refereced table.
+5. **Check** : Ensures that all values in a column satisfy a specific condition. (NOT SUPPORTED IN MYSQL)
+```
+gender varchar(1) Check ('M','F") ;
+```
 6. **Default** : Assigns a default value to a column if no value is provided .
    
 
