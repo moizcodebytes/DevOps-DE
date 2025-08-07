@@ -79,7 +79,7 @@ To insert the data into table there are 3 important components
 
 
 ```
-INSERT INTO <table name>(col1,col2,col3) Values ('value1',value2,value3)
+INSERT INTO <table name> (col1,col2,col3) Values ('value1',value2,value3)
 ```
 
 
